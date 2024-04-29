@@ -1,0 +1,2 @@
+# Remote-Sensing-Enhanced-Spatio-Temporal-Model-for-Precision-Prediction-of-Anopheles-Larval-Habitats
+Prepared by: Fahimeh Youssefi Department of Photogrammetry and Remote Sensing, Faculty of Geodesy and Geomatics Engineering, K.N.Toosi University, Tehran, Iran. Institute of Artificial Intelligence, Shaoxing University, 508 West Huancheng Road, Yuecheng District, Shaoxing, Zhejiang Province, Postal Code 312000, China. youssefi@email.kntu.ac.ir 
